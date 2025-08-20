@@ -1,5 +1,4 @@
 # 💫 About Me:
-📚Sou estudante de Back-End<br>🙂Estou a procura de Estágio
 
 
 # 💻 Tech Stack:
