@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Thais SImon
+# 👩🏻‍💻 Thais Simon
 
 **`Desenvolvedora FullStack`**
 
