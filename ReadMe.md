@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Thais Simon
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedora Front-End`**
 
 ---
 
